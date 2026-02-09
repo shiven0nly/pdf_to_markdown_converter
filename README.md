@@ -4,7 +4,7 @@
 
 **A sleek, cyberpunk-inspired web application that converts PDF documents to GitHub-ready markdown format.**
 
-[Live Demo](#) • [Features](#features) • [Installation](#installation) • [Usage](#usage)
+[Live Demo](https://shiven0nly.github.io/pdf_to_markdown_converter/) • [Features](#features) • [Installation](#installation) • [Usage](#usage)
 
 ![Version](https://img.shields.io/badge/version-1.0.0-00ff88?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-00ccff?style=flat-square)
